@@ -1,5 +1,5 @@
 ### Hi there 👋
-Not my cat😹.
+😹.
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=YoonkyungH&show_icons=true)
