@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 My velog link
-CLICK THIS!
-https://velog.io/@dbsrud11
+
+CLICK THIS❗
+
+📌 https://velog.io/@dbsrud11
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=YoonkyungH&show_icons=true)
