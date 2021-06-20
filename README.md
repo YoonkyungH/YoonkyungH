@@ -2,7 +2,7 @@
 
 My velog link
 
-CLICK THIS❗
+CLICK THIS ❗
 
 📌 https://velog.io/@dbsrud11
 
