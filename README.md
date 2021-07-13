@@ -2,7 +2,6 @@
 
 My velog link
 
-CLICK THIS ❗
 
 📌 https://velog.io/@dbsrud11
 
