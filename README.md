@@ -1,9 +1,7 @@
-### Hi there 👋
+### Backend junior developer 😸
 
-My velog link
+**My velog link: 🔗 https://velog.io/@dbsrud11**
 
-
-📌 https://velog.io/@dbsrud11
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=YoonkyungH&show_icons=true)
