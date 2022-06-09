@@ -1,4 +1,3 @@
-### Yoonkyung 😸
 
 **My velog link: 🔗 https://velog.io/@dbsrud11**
 
